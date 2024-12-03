@@ -77,6 +77,7 @@ projects={
 		'soundemittersystem',
 		'studiorender',
 		'stub_steam',
+  'thirdparty/lua',
 		'tier0',
 		'tier1',
 		'tier2',
